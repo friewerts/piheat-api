@@ -1,5 +1,6 @@
-from os import path
 import yaml
+
+from os import path
 
 
 class ConfigurationService:

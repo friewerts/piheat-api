@@ -1,7 +1,4 @@
-import json
-from http import HTTPStatus
-
-from flask import Flask, jsonify
+from flask import Flask
 
 from api.controller.sensors_controller import sensors_controller
 
