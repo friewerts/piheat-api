@@ -1,0 +1,3 @@
+sensor_files:
+  - "/Users/fredie/dev/python/piheat-api/dummy-files/w1.txt"
+  - "/Users/fredie/dev/python/piheat-api/dummy-files/w2.txt"
